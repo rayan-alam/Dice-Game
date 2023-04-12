@@ -1,0 +1,36 @@
+body{
+    background-color: #393E46;
+}
+
+.heading{
+    text-align: center;
+    color: black;
+    font-style: oblique;
+    font-size: 1.5rem;
+}
+
+.refresh_me{
+    text-align: center;
+    color: #4ECCA3;
+    font-size: 2.75rem;
+    font-style: oblique;
+}
+
+.dice{
+    text-align: center;
+    color: #4ECCA3;
+    font-size: 1.75rem;
+    display: inline-block;
+    
+}
+
+.container{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    font-style: inherit;
+    color: antiquewhite;
+    margin-top: 20%;
+}
